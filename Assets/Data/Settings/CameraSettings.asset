@@ -11,6 +11,6 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9ca5d4db6c40430796d2da3233a6e98c, type: 3}
   m_Name: CameraSettings
-  m_EditorClassIdentifier: 
+  m_EditorClassIdentifier: Assembly-CSharp:Gun:CameraSettings
   _mouseSensitivity: 300
   _rotationConstraints: {x: 60, y: 60}
